@@ -1,0 +1,7 @@
+name: constants
+version: 0.2.6+1
+author: VSN Reddy Janga <janga1997@gmail.com>
+description: Provides a set of classes and handy utility methods for working with 2D geometry.
+homepage: http://www.github.com/janga1997/constants.dart
+environment:
+  sdk: '>=0.5.20'
